@@ -3,7 +3,7 @@ ModernEqualizer
 
 Modify reverb, distorsion, and frequencies of audio input
 
-https://michaelandrefraniatte.web.app/modernequalizer/
+https://michaelandrefraniatte.web.app/FootstepAmplifier4FPSOfficial/
 
 michael.franiatte@gmail.com
 
